@@ -1,4 +1,7 @@
 # sub-region-mri-segmentation
+
+Shahrokh Heidari
+
 MRI sub-region segmentation using SAM and Ants segmentation methods
 
 
